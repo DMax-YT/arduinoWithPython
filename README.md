@@ -1,4 +1,4 @@
-#arduinoWithPython
+# arduinoWithPython
 **Python and Arduino**
 Это программа связывающая arduino и python
 
